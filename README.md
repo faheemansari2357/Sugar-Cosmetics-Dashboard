@@ -1,4 +1,4 @@
-# Sugar Cosmetics Dashboard
+# Sugar Cosmetics Sales Insights
 
 ## Project Overview
 Developed a streamlined PowerBI tool for Sugar Cosmetics, highlighting sales and spending trends. Provided actionable insights to drive targeted sales efforts, aiming for a 5% revenue increase. Used dashboard data to reﬁne marketing approaches and boost revenue for Sugar Cosmetics.
